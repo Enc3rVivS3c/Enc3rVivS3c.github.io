@@ -2,9 +2,9 @@
 title: The Beginning!
 date: 2023-08-09 21:00:00 +1000
 categories: [Cyber Security, Info Sec]
-tags: [cybersecurity, , infosec, hello, firstpost]     # TAG names should always be lowercase
+tags: [cybersecurity,infosec,hello,firstpost]     # TAG names should always be lowercase
 ---
-
+# The Beginning
 # Hello, cyber enthusiasts and curious minds!
 Welcome to my very first blog post on my exciting journey into the world of cybersecurity. I am thrilled to share with you my experiences, challenges, and triumphs as I make the transition from a background in physical security to the dynamic realm of cyber security. Join me as I embark on this exhilarating adventure, learning the ropes of digital defence, attack and exploring the fascinating world of cyber threats, vulnerabilities, and solutions.
 
