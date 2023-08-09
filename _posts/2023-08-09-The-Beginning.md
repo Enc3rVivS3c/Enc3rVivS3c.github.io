@@ -1,5 +1,5 @@
 ---
-title: Start at the beginning
+title: The Beginning!
 date: 2023-08-09 21:00:00 +1000
 categories: [Cyber Security, Info Sec]
 tags: [cybersecurity, , infosec, hello, firstpost]     # TAG names should always be lowercase
